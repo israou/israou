@@ -28,3 +28,5 @@ and pushing myself beyond comfort zones.
 ✔ Learning fundamentals, not shortcuts
 ✔ Building things from scratch
 ✔ Discipline > motivation
+
+XOXO 💅
