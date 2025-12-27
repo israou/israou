@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Israa+%F0%9F%91%8B;1337+Student+%7C+Software+Engineer;Code.+Build.+Secure." />
+</p>
 
-<!--
-**israou/israou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About me
+I’m a **1337 student** passionate about building **clean, efficient and secure systems**.  
+I enjoy turning ideas into real products, understanding how things work **under the hood**,  
+and pushing myself beyond comfort zones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineering
+- 🛡️ Cybersecurity mindset
+- 🚀 Always learning, always improving
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,linux" />
+</p>
+
+---
+
+### 🧩 What I care about
+```txt
+✔ Writing code I understand
+✔ Learning fundamentals, not shortcuts
+✔ Building things from scratch
+✔ Discipline > motivation
