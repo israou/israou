@@ -28,5 +28,6 @@ and pushing myself beyond comfort zones.
 ✔ Learning fundamentals, not shortcuts
 ✔ Building things from scratch
 ✔ Discipline > motivation
+✔ Transcend the ordinary code
 
 XOXO 💅
