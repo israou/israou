@@ -17,9 +17,8 @@ and pushing myself beyond comfort zones.
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,express,postgres,docker,linux,apple,c,cpp" />
 </p>
-
 ---
 
 ### 🧩 What I care about
