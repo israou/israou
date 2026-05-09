@@ -10,6 +10,23 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,express,postgres,docker,linux,apple,c,cpp" />
 </p>
 
+---
+
+### 🖋️ L'Algorithme de l'Existence
+
+> “Celui qui a créé les cieux et la terre ne connaît-Il pas les moindres recoins de Sa création ?  
+> Tout est écrit dans un Livre Clair.”
+
+Every system has a root.  
+Every architecture has a source.
+
+In code, we search for logic, structure, and truth.  
+In existence, some seek that same perfection through faith.
+
+#### La quête de la Source
+[0x2A](https://www.42network.org/)
+
+---
 
 ```txt
 C 🖤                      JS 💗                       Python 🐍                 Shell ✦                  SQL ✧
