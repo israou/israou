@@ -10,10 +10,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,express,postgres,docker,linux,apple,c,cpp" />
 </p>
 
-```c
-while (!success)
-{
-    learn();
-    build();
-    repeat();
+
+
+```md
+```js
+while (!success)              // js
+{                             # py
+    learn();                  -- sql
+    build();                  # sh
+    evolve();                 // cpp
 }
