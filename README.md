@@ -11,12 +11,11 @@
 </p>
 
 
-
-```md
-```js
-while (!success)              // js
-{                             # py
-    learn();                  -- sql
-    build();                  # sh
-    evolve();                 // cpp
-}
+```txt
+C 🖤                      JS 💗                       Python 🐍                 Shell ✦                  SQL ✧
+while (!success)          while (!success)            while not success:         until success; do          WHILE NOT success LOOP
+{                         {                               learn()                  learn                    learn();
+    learn();                  learn();                    build()                  build                    build();
+    repeat();                 repeat();                   repeat()                 repeat                   repeat();
+}                         }                                                        done                     END LOOP;
+```
