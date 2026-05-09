@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF2DAA&center=true&vCenter=true&width=650&lines=I+write+code+like+it's+poetry.;Software+Engineer.;Half+coffee+half+debugging." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF2DAA&center=true&vCenter=true&width=700&lines=hey+it's+israa+%F0%9F%92%97;software+engineer.;enthusiast+for+beautiful+systems+%26+creative+code." />
 </p>
 
 <h3 align="center">
-  🌿 secure systems • pink energy • terminal soul
+  ✦ pink energy • terminal soul • late night builder
 </h3>
 
 <p align="center">
