@@ -37,5 +37,3 @@ while (!success)          while (!success)            while not succe
 }                         }                                                        done                     END LOOP;
 ```
 
-
-voici mon readme mtn comment tu trouves ?
